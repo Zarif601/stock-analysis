@@ -28,10 +28,7 @@ And here is the total elapsed time for the refactored code:
 ![Elapsed time for 2017 for new code](https://github.com/Zarif601/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![Elapsed time for 2018 for new code](https://github.com/Zarif601/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-As we can see, the refactored code runs much faster, and hence, is more efficient. The code was timed using the following blocks of code before and after the main block:
-
-![Start timer](https://github.com/Zarif601/stock-analysis/blob/main/Resources/startTimer.png)
-![End timer](https://github.com/Zarif601/stock-analysis/blob/main/Resources/endTimer.png)
+As we can see, the refactored code runs much faster, and hence, is more efficient.
 
 ## Summary
 
